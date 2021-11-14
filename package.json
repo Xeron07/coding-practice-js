@@ -1,0 +1,22 @@
+{
+  "name": "coding-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xeron07/coding-practice-js.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Md. Minhaz Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xeron07/coding-practice-js/issues"
+  },
+  "homepage": "https://github.com/Xeron07/coding-practice-js#readme"
+}
